@@ -1,0 +1,10 @@
+.DS_Store
+
+# Originals / private (CV contains phone number)
+/*.pdf
+/IMG_*.jpeg
+/d2e46fe1-*.jpg
+/ef8a5b1a-*.jpg
+/IMG_*.JPG
+/logo.png
+/Screenshot*.png
